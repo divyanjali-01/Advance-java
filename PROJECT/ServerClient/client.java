@@ -1,5 +1,3 @@
-package PROJECT.ServerClient;
-
 import java.io.*;
 import java.net.*;
 public class client {

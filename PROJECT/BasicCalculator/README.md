@@ -13,9 +13,9 @@ A simple calculator built using Java Swing.
 - Java
 - Swing
 
-## Run
+## Runjavac 
 ```Terminal
-javac BasicCalculator\*.java
+java BasicCalculator.Main
 ```
 
 

@@ -21,8 +21,8 @@ public class App {
             "INSERT INTO student VALUES (?, ?, ?)"
         );
 
-        ps.setInt(1, 105);
-        ps.setString(2, "Ananya");
+        ps.setInt(1, 107);
+        ps.setString(2, "Divyanjali");
         ps.setString(3, "cse");
 
         ps.executeUpdate();

@@ -1,0 +1,5 @@
+package com.shopsphere.model;
+
+public class OrderItem {
+    
+}

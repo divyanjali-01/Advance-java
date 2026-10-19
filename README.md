@@ -7,7 +7,7 @@ Welcome to my Advance-java repository! This repository contains my Java programm
 1. BasicCalculator (EXPERIMENT: 01)
 A calculator application developed using Java to practice programming concepts and calculations.
 
-2.JDBC (Java Database Connectivity) (EXPERIMENT: 02)
+2. JDBC (Java Database Connectivity) (EXPERIMENT: 02)
 Experiments with JDBC to understand how Java applications connect to and interact with databases.
 
 3.  RMI (Remote Method Invocation) (EXPERIMENT: 03)

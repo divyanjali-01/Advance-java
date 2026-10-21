@@ -4,22 +4,23 @@ Welcome to my Advance-java repository! This repository contains my Java programm
 
 📂 Repository Contents
 
-1. BasicCalculator (EXPERIMENT: 01)
+1. StudentRegistration (EXPERIMENT: 01)
+
+A Java-based student registration program to practice input handling and validation.
+
+2. BasicCalculator (EXPERIMENT: 02)
 
 A calculator application developed using Java to practice programming concepts and calculations.
 
-2. JDBC (Java Database Connectivity) (EXPERIMENT: 02)
+3. JDBC (Java Database Connectivity) (EXPERIMENT: 03)
 
 Experiments with JDBC to understand how Java applications connect to and interact with databases.
 
-3.  RMI (Remote Method Invocation) (EXPERIMENT: 03)
+4.  RMI (Remote Method Invocation) (EXPERIMENT: 04)
 
 Java RMI experiments to understand communication between distributed Java applications.
 
 
-4. StudentRegistration (EXPERIMENT: 04)
-
-A Java-based student registration program to practice input handling and validation.
 
 5. ServerClient (EXPERIMENT: 05)
     
